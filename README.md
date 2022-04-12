@@ -12,7 +12,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=elif-apaydin&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi There! I'm Elif Apaydin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ### :woman_technologist: &nbsp;About Me :
 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -27,10 +27,12 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
   </a>
+  <br> AWS
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="60" height="60"/>
   </a>
