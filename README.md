@@ -14,7 +14,6 @@
 
 <h1 align="center">Hi There! I'm Elif Apaydin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
----
 ### :woman_technologist: &nbsp;About Me :
 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -23,8 +22,12 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### 🔥 &nbsp; My Stats :
-![Github Stats](https://github-readme-stats.vercel.app/api?username=elif-apaydin&show_icons=true&theme=codeSTACKr) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elif-apaydin&layout=compact&theme=codeSTACKr)](https://github.com/elif-apaydin/github-readme-stats)
+<a href="https://github.com/elif-apaydin/elif-apaydin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elif-apaydin&show_icons=true&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/elif-apaydin/elif-apaydin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elif-apaydin&layout=compact&theme=codeSTACKr)](https://github.com/elif-apaydin/github-readme-stats" alt="Elif's GitHub Stats" />
+</a>
 
 ---
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
