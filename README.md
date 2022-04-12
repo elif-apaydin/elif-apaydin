@@ -58,7 +58,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     </td>    
       <td align="center" width="96">
         <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" 
+            <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
             alt="K8s" width="70" height="70"/>
         </a>
         <br> K8s
@@ -137,7 +137,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     </td>
       <td align="center" width="96">
         <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" 
+            <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" 
             alt="Elasticsearch" width="70" height="70"/>
         </a>
         <br> Elasticsearch
