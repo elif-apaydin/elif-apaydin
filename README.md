@@ -117,4 +117,4 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
         <br> Grafana
     </td>
   </tr>
-  <tr>
+</table>
