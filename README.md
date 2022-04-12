@@ -13,6 +13,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=elif-apaydin&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hi There! I'm Elif Apaydin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+---
 
 ### :woman_technologist: &nbsp;About Me :
 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
