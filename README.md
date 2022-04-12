@@ -102,7 +102,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     </td>
       <td align="center" width="96">
         <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg"
             alt="CentOS" width="70" height="70"/>
         </a>
         <br> CentOS
