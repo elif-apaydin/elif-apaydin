@@ -67,6 +67,9 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
             alt="Docker" width="60" height="60"/>
         </a>
         <br> Docker
+    </td>
+  </tr>
+  <tr>
         <td align="center" width="96">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
