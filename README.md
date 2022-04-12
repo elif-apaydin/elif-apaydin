@@ -27,7 +27,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elif-apaydin&show_icons=true&line_height=35&count_private=true&theme=codeSTACKr" alt="Elif's GitHub Stats" />
 </a>
 <a href="https://github.com/elif-apaydin/elif-apaydin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elif-apaydin&layout=compact&line_hight=35&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elif-apaydin&layout=compact&line_hight=80&theme=codeSTACKr" />
 </a>
 
 ---
