@@ -50,12 +50,26 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
         <br> GCP
     </td>
       <td align="center" width="96">
+        <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg"
+            alt="DigitalOcean" width="70" height="70"/>
+        </a>
+        <br> DigitalOcean
+    </td>    
+      <td align="center" width="96">
         <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" 
             alt="K8s" width="70" height="70"/>
         </a>
         <br> K8s
     </td>
+      <td align="center" width="96">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+            alt="Docker" width="70" height="70"/>
+        </a>
+        <br> Docker
+    </td>    
       <td align="center" width="96">
         <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" 
@@ -71,12 +85,12 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
         <br> Ansible
     </td>
       <td align="center" width="96">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-            alt="Docker" width="70" height="70"/>
+        <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" 
+            alt="Grafana" width="70" height="70"/>
         </a>
-        <br> Docker
-    </td>
+        <br> Grafana
+    </td>    
   </tr>
   <tr>
       <td align="center" width="96">
@@ -86,6 +100,20 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
         </a>
         <br> Linux
     </td>
+      <td align="center" width="96">
+        <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg"
+            alt="CentOS" width="70" height="70"/>
+        </a>
+        <br> CentOS
+    </td>
+      <td align="center" width="96">
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"
+            alt="Ubuntu" width="70" height="70"/>
+        </a>
+        <br> Ubuntu
+    </td>        
       <td align="center" width="96">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
@@ -113,13 +141,6 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
             alt="Elasticsearch" width="70" height="70"/>
         </a>
         <br> Elasticsearch
-    </td>
-      <td align="center" width="96">
-        <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" 
-            alt="Grafana" width="70" height="70"/>
-        </a>
-        <br> Grafana
     </td>
   </tr>
 </table>
