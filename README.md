@@ -33,42 +33,42 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     <td align="center" width="96">
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-            alt="AWS" width="48" height="48"/>
+            alt="AWS" width="70" height="70"/>
         </a>
         <br> AWS
     </td>
     <td align="center" width="96">
         <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" 
-            alt="GCP" width="48" height="48"/>
+            alt="GCP" width="70" height="70"/>
         </a>
         <br> GCP
     </td>
       <td align="center" width="96">
         <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" 
-            alt="K8s" width="48" height="48"/>
+            alt="K8s" width="70" height="70"/>
         </a>
         <br> K8s
     </td>
       <td align="center" width="96">
         <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" 
-            alt="Terraform" width="48" height="48"/>
+            alt="Terraform" width="70" height="70"/>
         </a>
         <br> Terraform
     </td>
       <td align="center" width="96">
         <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" 
-            alt="Ansible" width="48" height="48"/>
+            alt="Ansible" width="70" height="70"/>
         </a>
         <br> Ansible
     </td>
       <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-            alt="Docker" width="48" height="48"/>
+            alt="Docker" width="70" height="70"/>
         </a>
         <br> Docker
     </td>
@@ -77,42 +77,42 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
       <td align="center" width="96">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-            alt="Linux" width="48" height="48"/>
+            alt="Linux" width="70" height="70"/>
         </a>
         <br> Linux
     </td>
       <td align="center" width="96">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
-            alt="Python" width="48" height="48"/>
+            alt="Python" width="70" height="70"/>
         </a>
         <br> Python
     </td>
       <td align="center" width="96">
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" 
-            alt="Bash" width="48" height="48"/>
+            alt="Bash" width="70" height="70"/>
         </a>
         <br> Bash
     </td>
       <td align="center" width="96">
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-            alt="PostgreSQL" width="48" height="48"/>
+            alt="PostgreSQL" width="70" height="70"/>
         </a>
         <br> PostgreSQL
     </td>
       <td align="center" width="96">
         <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" 
-            alt="Elasticsearch" width="48" height="48"/>
+            alt="Elasticsearch" width="70" height="70"/>
         </a>
         <br> Elasticsearch
     </td>
       <td align="center" width="96">
         <a href="https://grafana.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" 
-            alt="Grafana" width="48" height="48"/>
+            alt="Grafana" width="70" height="70"/>
         </a>
         <br> Grafana
     </td>
